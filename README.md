@@ -1,7 +1,7 @@
 <p align="center">
   <img src="icon.png" width="96" alt="App Icon" />
 
-  <h1>YouTube Subtitle Video Player 🎬📝</h1>
+  <h1>YouTube Subtitle Video Player (fixed version)🎬📝</h1>
 
   <p><strong>A small GUI tool that converts video frames into stylized ASCII-like subtitles (YouTube Timed Text `.ytt`).</strong></p>
 
@@ -60,6 +60,7 @@ python main.py
 
 - If you see import errors, ensure all dependencies are installed with `pip`.
 - On Windows, make sure OpenCV can access your video codecs.
+  WARNING FROM MY FORK: this is a fixed version of this python3 app if you want to simply put any changes, grab the owner/my code then modifiy yourself´s code
 
 ## Contributing 🤝
 
@@ -78,4 +79,8 @@ MIT
 
 ---
 
-Made by **Mahesh Paul J** — enjoy converting your videos into subtitle art! ✨
+Made by **Mahesh Paul J And Bernardo7322** — enjoy converting your videos into subtitle art! ✨
+
+## ABOUT FIXING: HOW DID YOU FIX IT?
+- guys i am so new in python i fixed this code by an AI, i only for a while know basic of basic python.
+- contribute me and the owner if you want to do anything.
