@@ -42,12 +42,11 @@ pip install customtkinter opencv-python pillow numpy
 ### Run
 
 ```bash
-python main.py
+python main.py ```
 
 warning: copy in notepad on mainfixed.py the code, then paste into the main.py to this thing work
 why?
 **BECAUSE THIS mainfixed.py is the modified code the original code wasn´t modified yet**
-```
 
 1. Click **Select Video** and choose a video file (mp4/avi/mov/mkv).
 2. Adjust controls (Resolution Width, FPS limit, Compression, Color Depth, Visual Style).
