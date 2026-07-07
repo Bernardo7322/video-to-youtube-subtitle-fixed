@@ -42,7 +42,7 @@ pip install customtkinter opencv-python pillow numpy
 ### Run
 
 ```bash
-python main.py ```
+python main.py
 
 warning: copy in notepad on mainfixed.py the code, then paste into the main.py to this thing work
 why?
