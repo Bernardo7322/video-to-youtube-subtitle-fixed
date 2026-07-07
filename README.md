@@ -43,6 +43,10 @@ pip install customtkinter opencv-python pillow numpy
 
 ```bash
 python main.py
+
+warning: copy in notepad on mainfixed.py the code, then paste into the main.py to this thing work
+why?
+**BECAUSE THIS mainfixed.py is the modified code the original code wasn´t modified yet**
 ```
 
 1. Click **Select Video** and choose a video file (mp4/avi/mov/mkv).
